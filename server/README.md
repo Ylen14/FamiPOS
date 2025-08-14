@@ -1,0 +1,1 @@
+Server: yarn && yarn dev
